@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@4310b60f-7496-4747-8cb8-8aa6f3acb8b1" />
+        <remote-mappings server-id="python@sftp://hopson@10.2.39.17:65508/home/hopson/apps/usr/webserver/dba/python3.6.0/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/hopson/apps/usr/webserver/dbops2.0" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
